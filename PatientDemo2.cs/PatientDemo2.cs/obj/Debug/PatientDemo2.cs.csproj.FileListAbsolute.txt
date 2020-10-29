@@ -1,0 +1,6 @@
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\bin\Debug\PatientDemo2.cs.exe.config
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\bin\Debug\PatientDemo2.cs.exe
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\bin\Debug\PatientDemo2.cs.pdb
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\obj\Debug\PatientDemo2.cs.csprojAssemblyReference.cache
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\obj\Debug\PatientDemo2.cs.exe
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #3\Extra question\PatientDemo2.cs\PatientDemo2.cs\obj\Debug\PatientDemo2.cs.pdb
